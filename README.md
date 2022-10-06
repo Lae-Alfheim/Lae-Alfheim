@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Lae-Alfheim
 - 🌱 I’m currently learning C, Web Development, and Computer Science
+- Want to learn Rust maybe
 - 📫 How to reach me, you dont!
 
 <!---
